@@ -1,0 +1,686 @@
+0:00
+Uh you're all very welcome to the HR company challenge this afternoon. We're joined by uh Philip and Peter, both from
+0:07
+the HR company, who will be taking us through this presentation. Uh we'll take about 45 minutes of your time. We
+0:14
+encourage you to ask questions, uh turn on your camera, join in and do some good
+0:19
+sales discovery to see if there's an opportunity here for you as uh to uh to
+0:24
+pitch to the HR company. Um so our process for today is we will uh kick off
+0:31
+I think Peter is going to do a couple of slides and we're going to ask him to share his screen in a moment. He's going to do a couple of slides with us and
+0:37
+then we'll move to the questions and feedback and comments and discussion piece. And uh yeah with that I think I'm
+0:45
+going to welcome Philip and Peter. Thank you both for joining us today. Uh you're very welcome. A quick introduction from
+0:50
+you both and then maybe uh share your slides and and we'll get we'll get on.
+0:56
+Okay, I'll start. So, good afternoon everybody. My name is the CEO.
+1:04
+I used to be the head of
+1:10
+business. Philip, maybe you might just squash up to the uh the mic there a little bit
+1:16
+just to to pick you up a bit better if you don't mind. Yeah, perfect.
+1:21
+Okay, listen. I'll start again. My name is Philip Carney. Um, I started this company about 25 years ago to outsource
+1:29
+and to help people with their HR initiatives. Prior to that, I was the HR director for Microsoft. Um, and I worked
+1:35
+there for quite a number of years. Set up this business to support small businesses and multinationals along the
+1:40
+way to do some HR support for them. And that's the quick synopsis of who we are.
+1:48
+Very good. Very good. You pull pull up there, Peter, and uh maybe you could you could jump in.
+1:53
+Hope you guys can hear me. Yeah. So, I'm Peter Carney. I'm a best way to describe it. But I've been here for since 2012
+2:02
+now. I look after pretty much it related. Um, so I'm going to take you
+2:08
+through the the slides any questions as we go.
+2:20
+Is that okay? Perfect. Yes. Uh we're yeah waiting for you. So yeah, happy to happy for you to
+2:25
+go ahead and share h Peter and just stay close just stay close to the mic so we get a good sound quality. That'll be great.
+2:31
+Yeah, what I'll do is I'm going to move this one slightly over to me. Perfect. Perfect.
+2:42
+So
+2:47
+we can see those now. Yeah, perfect. Yeah, we can see that. Okay, cool. So, um, Nico might want to
+2:54
+ask this, but just to give you a very brief synopsis of what we do. So, we support
+3:00
+and we do this by assigning a dedicated port to a company.
+3:06
+Um, there's what we basically have when it comes to all things. Um, to make
+3:12
+to be just to be clear what we do. So we basically in page four easier to explain
+3:18
+we've done oh sorry is that a bit easier can you
+3:24
+hear me now muchone much much better Peter yeah just stay
+3:30
+stay at stay at that level that's great you know what I think I'll have to keep this focus on me because this microphone is bad
+3:37
+yeah please do yeah so yeah just to give you an overview of what we do so basically as I was saying
+3:42
+h we basically do HR for small businesses. Um, and it's nearly easier to say what we don't do in the HR field,
+3:49
+which is uh basically we don't do payroll and we don't do recruitment. So, it's more along the lines of HR
+3:54
+compliance and that kind of stuff. Um, and we typically do that for companies who don't necessarily want to hire a
+4:00
+full-time HR person. Like, we do do it for for companies where they do have a HR person as well, but a lot of our
+4:05
+clients tend not to have someone doing HR full-time and they use our services as a result. So, as I say, it's a lot of
+4:11
+documentation and advice and compliance, that kind of thing. Um, so if I move on,
+4:17
+um, so the problem we basically have is to do really with the on boarding process for our customers. Um, and it
+4:24
+seems to be kind of a a bit of a flawed and kind of complicated process uh, sort of internally and externally. Um, so
+4:32
+really in the points I made here, the customer experience is kind of old school. Um the staff also tend to have
+4:38
+an issue when they're trying to sign up a person uh or company properly. H it usually requires someone in IT to help
+4:44
+kind of uh to set up the whole kind of uh the whole system for our customers.
+4:50
+Um and there's just a consistency problem as well which I'll get into later on. Um you'll also see that we use
+4:55
+quite a few systems um that don't really talk to one another um as part of that whole process. So I'll just move along
+5:03
+to give you an idea of sort of how it works. So apologies now this is a bit of a rough kind of process flow but I'll
+5:09
+I'll try to take you through it. So effectively what happens is um we get a lead in first of all and so it can come
+5:15
+in two ways either it can be an inbound lead or it can be from a cold call or whatever. Um and we then we we basically
+5:23
+put that lead into our CRM system which is called V Tiger. I'd say no one has probably heard of that that's on the
+5:29
+call today. Um, it's an open-source system that we used um, going back about
+5:35
+14 years ago. Um, and what we've since done is we use another company called Viger Experts um, who have provided
+5:42
+customization for that particular um, system. So the lead goes into the CRM
+5:48
+and then if they uh want to sign up, we then basically um send a link from our
+5:53
+CRM system um to the customer and that that goes by an email and they then fill
+6:00
+in um the uh fill in the contract which includes things like their IBAN and then
+6:06
+that comes back into us via an email. Um and this is all done in still by the
+6:11
+saleserson. Um so that information then gets stored then back into our CRM system and then when we are converting
+6:19
+the lead uh to a client they then receive an email about their dedicated account manager and information about
+6:25
+the terms and conditions. So that's kind of what what the the customer basically sees on their site and from the
+6:31
+salesperson perspective is down here. Um they as I say they enter
+6:37
+the lead manually on the CRM system. It then triggers a contract to be sent to the customer and the customer receives
+6:44
+them um uh payment data. Sorry, the customer gives us their payment data and
+6:50
+then we have to then manually upload that data into our finance system which is called Maxio. Um, and then when we
+6:57
+have those numbers, then we put those uh what's called a subscription number and a customer number uh back into our CRM
+7:05
+system before we can then convert our lead on V Tiger into what's a client
+7:10
+effectively. And you can't do that without those numbers been in. Um so that's kind of the first sort of manual
+7:15
+problem that we have in terms of the whole kind of process is between basically finance and and our uh CRM
+7:21
+system. Um the next thing that we have uh so when they do get converted um the uh
+7:30
+customer then um receives an email from our operations director with regards to
+7:36
+who has been assigned as their account manager. Um and the account manager will then make an introduction call uh to the
+7:42
+client and then they send them an email. Basically um what will happen is um a master
+7:49
+contract form is then sent by email from um from our guys to fill in for our
+7:55
+customers. Um and then when the master contract is basically prepared a couple of weeks later it's then sent for review
+8:02
+to the customer and then when that's confirmed we then give them access to our customer portal which is also built
+8:08
+on the back of our CRM system. Um so then on the account manager side
+8:15
+then as I said they review the existing contracts and answer and um and answers to the form that's been completed by the
+8:21
+customer and this is pretty much the moment done by email. So it's literally just like a table that they fill in on a
+8:27
+on an email they respond. So we typically ask around like 14 questions in that initial email. you know, things
+8:33
+like what's the name of your company? Not well, not not an income, but what's the name? Um the official trading name
+8:39
+that you guys use, so we know what to put into the contracts. We might ask them things like um what's your sick
+8:44
+leave policy? Um what are your operating hours? Do you work Monday to Friday or Monday to Sunday? And all that
+8:51
+information basically comes back into us. And then from there, we generate like a master kind of contract that then
+8:57
+goes out to review. Um what we then tend to do when that's all all done and
+9:02
+they've been granted access to our portal, they can they can start working on their um on their individual
+9:09
+contracts and then the next step we move on to is the handbook. And again what we're doing is we're sending another
+9:15
+form where they fill in basically more information that helps us to build out their um their employee their company
+9:21
+handbook. There tends to be a little bit of overlap here in this whole thing and it's all kind of very manual again. It's
+9:27
+all like an an email goes out, they respond to the email, and then we go build it. And it just seems like it's a bit kind of dated the whole process. So
+9:35
+that's the kind of thing we're trying to fix. Um in terms of the system flow, I have to move my face here so I can read
+9:41
+it. Um so basically what happens is um just from start to finish in terms of
+9:47
+the the sales, the onboarding, it starts in pipe drive, which is what we use for our uh our sales CRM. And then once we
+9:54
+know a customer is going to or a lead is going to become a customer, we move them on to the CRM system. So this is all
+10:00
+manual as well. And then what happens is um as I said then we get information
+10:05
+comes back from the customer on the CRM and we manually pop those that information into Maxio which is our finance system. We get the numbers from
+10:12
+Maxio back into our CRM system. Then we then we do our phone calls, our emails
+10:17
+and then we give them access to our portal. And pretty much the entire connection here is all manual. So this
+10:23
+is the kind of thing we're really trying to fix. Basically and trying to streamline some of those kind of tasks that we're asking our customers to do.
+10:31
+Um if I'll keep going unless Anon's not not clear at this stage. I might just ask one question because
+10:38
+this is really interesting. Uh Peter, typically how long does that process take?
+10:44
+Um so the point from when we know they're going to join us to issuing like a master contract
+10:51
+um can take about a week maybe because obviously there's
+10:56
+what'll happen is probably from the the date they join to the date the manager introduces them. Um it might take two
+11:03
+days for the account manager to to start working on their account and then it's probably like three or four days of like
+11:08
+setting up the master documentation. Okay. Okay. Yeah. All right.
+11:14
+to do that to to go from the master handbook to the sorry to go from the master contracts then to the handbook probably another two or three weeks
+11:20
+after that before they they get that that kind of documentation as well.
+11:27
+So uh I hope this is kind of clear. Apologies if it's not. Um I'm just going
+11:32
+to move. Uh so the problem one is that when a client wants to join us, uh the setup process is slow. Uh they receive
+11:39
+an email with the digital contract and they're asked to enter their IBA band and sign the terms. These details are
+11:44
+recorded on the CRM but not automatically set up on our finance system. This is uh done manually and
+11:49
+when we have uh we have them set up on the finance system, the numbers that are manually entered on CRM. Kind of
+11:55
+repeating myself here. Um, and then problem two is just the client on boarding just seems wrong. They get an email to sign up. Um, and then they get
+12:01
+another email from our operations director who assigns them to one of our account managers. They then get another
+12:07
+email from the account manager with the table style form to obtain additional details and then they get another table
+12:12
+email a few weeks later for the handbook and then they also get another email if
+12:17
+they sign for other services. So um we do have like add-on services not just not just in terms of like the HR
+12:24
+compliance side but we also have like a data protection uh service that we sell. So if they sign up for the data
+12:30
+protection service they also get like an email with regards to how to access that particular platform. Um that's also a
+12:38
+manual task again which is a just a bit slow because we have to then manually take their information and upload things
+12:44
+like their their um company name, their email address into that platform as well. So there's a lot of kind of just
+12:50
+doing it the old fashioned way to kind of get the customer set up on these systems and the same applies if we sell
+12:55
+them um a HR system as well. So again we have to manually enter them into that system then we have to send them all
+13:01
+their login details to do all that as well. So like depending what they sign up for, there can be like somewhere in
+13:08
+the region of maybe like eight emails that a client might get in the space of like you know two days from us and it
+13:15
+just seems a bit over the top I think. Um so the next thing is just an overview
+13:24
+of some of the systems. Um so as I mentioned we use uh the system the CRM
+13:30
+system we use is called Viger CRM. Um that's the open source version. Um but obviously it's been it's been uh we
+13:37
+spent a kind of a a fair bit of time uh customizing it for ourselves through uh this crowd called V Tiger Experts. Um we
+13:44
+then use Microsoft 365 um to currently to store um the our client
+13:51
+documentation. So that's things like grievance letters and disciplinary letters and that kind of stuff. Um we do
+13:56
+currently also save their handbooks on that system as well. um on the
+14:02
+CRM/portal they are currently doing their contracts and they are doing their job
+14:08
+descriptions through our portal there um we're hoping to have the handbook available quite soon through our CRM
+14:14
+system as well so that will then basically come off the Microsoft 36 365 site and go on to V Tiger and then as
+14:22
+you can see here I've just mentioned the customer portal again that is kind of like a a side system of V Tiger um where
+14:28
+as I mentioned we've got contracts and that kind up on it. And then the data protection system is called U- Risk. H
+14:34
+this is a cloud-based system um where um they can there's like five different
+14:40
+parts to it which I won't bore you with, but there's um uh basically they can do threat scanning and they can like if
+14:46
+they've got um data access requests, they can use the system to kind of handle those. Um and they can also then
+14:52
+get things like templates to do it like privacy notices and privacy policies and data retention stuff, that kind of thing. Um so that's that.
+15:01
+Um then on the uh finance side, the system we use is Maxio or Advanced
+15:06
+Bidding. Used to be called Chargeify if any of you guys have used it before. Um so we use that then to because all our
+15:13
+customers are pretty much signed up on a subscription basis every month. Um that's why we chose Maxio because it's
+15:19
+got a pretty good um kind of subscription module to it. So um I think
+15:24
+all of our customers are actually on Maxio and then we use different payment gateways such as stripe and gokardless
+15:30
+then uh depends on how they're paying whether it's credit card or whether it's a direct debit. Um and then the HR
+15:37
+system is called national HR which is has just been bought by Moray. Um so
+15:43
+we're a reseller for National HR and then we're a reseller for the data protection system. So they're not like
+15:49
+our particular um we don't own the the software for them
+15:54
+and that's really about it. So um yeah, it's really just about trying to find a better way to kind of on board our
+15:59
+customers because it just seems like it's a bit longwinded at the moment and there's a bit of repetition. Um and this
+16:05
+as I say it's just really I think it's all as a result of the systems not going to communicate with one another really.
+16:12
+So I'll pass it over for uh questions and Philip here to add. Fantastic. Uh
+16:18
+Peter, uh thanks so much. Really good overview. Uh uh and it seems like a very
+16:24
+straightforward problem and in line with what uh our guys would help with. Uh
+16:29
+Kevin, before I go out to the floor, listen, I'm happy I'm happy to take questions, guys. Raise your hand. Uh stick it into the chat uh and we'll work
+16:35
+our way through and give you lots of time for for questions and comment here. Kevin, uh as the owner of our process
+16:41
+from our side, any observations, questions, comments from your side? Uh yeah, just a couple of observations. Uh
+16:48
+Peter, I've actually across V Tiger before, so at least there's one in the room that's that has used it. And uh
+16:57
+yeah, and for everyone's information because it may may come up, uh V Tiger do have I think quite a good selection
+17:05
+of REST APIs that you can interact with uh to use back and forth if you're flowing information in and out of um of
+17:12
+V Tiger. Um the in terms of how many leads what sort of
+17:17
+volume are we talking about Peter? Sorry, just just say that again. In terms of
+17:23
+how many leads are you converting into? How many what volume are you looking at per month or per year that you're
+17:30
+setting up new clients? Um that that that can vary depending on
+17:35
+how active the market is. Actually, Kevin, h we in a good month we could have 20 signups. In a bad month, we go
+17:42
+to five or six. So, it varies according to the marketplace, but at the moment, it's flat enough. It's about five or six
+17:49
+to 10 a month, but 20 is what we've been able to do in the past. Okay. So, you're looking at maybe
+17:55
+between 100 and 250 or something a year. So, yes. So, there is a volume there. It's not one per per week. Okay.
+18:01
+Um the and I presume is is Peter, are you looking at sort of two parts of
+18:07
+this? One is are you looking to understand bearing in mind the technology you have maybe having a fresh
+18:14
+look at a process and seeing from a customer perspective and from individual groups within the organization is there
+18:20
+a better way of doing it and then applying a sort of automation of some other technology on top of your existing
+18:26
+systems to come up with a to match that sort of better flow quicker flow.
+18:32
+Yeah, I think I think pretty much spot on. Yeah, I think the process is probably a bit flawed right now. Um, so
+18:37
+probably just need someone to just step back and look at the whole thing and say that doesn't really make sense the way you're doing it. Um, some of the systems
+18:44
+we're kind of stuck with them like the charge by one. There's no plans to change that or anything like that. Um, and I think obviously our CRM system
+18:50
+we're going to, you know, we need to kind of keep using that because there's so much information on it at this stage.
+18:56
+So other than that, we don't mind if if it requires another system to help integrate or if you think maybe we've we
+19:02
+have a system that we don't need, you know, we're kind of open to sort of any sort of uh advice there.
+19:09
+Okay, great. Thanks, Peter. Phil, very good. Very good. Uh let's go out to the floor to start. Aiden, good
+19:15
+afternoon. You're very welcome in there. Yeah, I have a few to go through. So I'm
+19:20
+sure it'll probably probably chalk off a few other people as we go through because we always think the same way. So thanks to Philip and Peter for uh
+19:28
+sharing that information today. Just in terms of the size of the organization you have. So it's often your most recent
+19:33
+financial report you about 20 employees. Is that still the right number in total? Is it?
+19:38
+That's still the right number. Yeah. Yeah. Yeah. Okay. That's good. And in
+19:43
+terms of FTEES, I mean how how much time and effort do you think is going into the onboarding process? I mean how many
+19:48
+people are getting tied up? Is it about the duration that it takes or the effort that it takes or both?
+19:55
+Yeah, there's a it does take a fair bit of effort. Um there's like the
+20:02
+onboarding process. I'm trying to think now we've got a salesperson, then we've got an operations director involved in
+20:08
+it. H then we've got someone in finance, two people in finance actually looking at it. Uh and then we've got someone in
+20:14
+IT. So like we've got about six people uh involved in actually like signing up
+20:21
+a person and getting them onto our system. And it just seems like it's a bit of a waste of time. Okay. Yeah. All right. That's good to
+20:28
+get the background and presumably did given the fact that you you have a number of different systems that have grown over time. I mean why why are you
+20:34
+looking at this now? Because I imagine this didn't happen overnight. What's the impetus, the motivation to look at it
+20:40
+now? I think it's just a case of streamlining to be honest with you. I think we we've all just got a bit tired of it at this
+20:46
+stage. Um, we it it's I think every time a new customer signs
+20:54
+up, um, the guys who like convert them from like a lead into a client always need help because the system is just a
+21:01
+bit silly the way it kind of asks you to convert them and people never know what to click or what to do. Um, and that
+21:07
+might be the CRM system itself. That's just not that intuitive perhaps. I'm not really sure. Um, so like there's really
+21:14
+only like two people that actually know how to properly convert a customer and then every time someone else needs help
+21:19
+and it's kind of it's not through lack of training like you're showing people how to do it but they just kind of
+21:25
+forget. Okay. Um, that's great. Sorry, I just wonder what is now. And in terms of how
+21:32
+the data has moved around, you mentioned email. Are you using paper? Is it files, emails, Excel? How does data move
+21:38
+between how do finance get it back into CRM? Is that they log on and show it
+21:43
+again or what happens? Yeah. No, we use it's pretty much it's all paperless in fairness. Uh by and
+21:49
+large it's just a lot of emails going around and a lot of people CCD and a lot of time waste to read this kind of stuff
+21:55
+as well. Um but uh we have a good few workflows set up on our CRM system. So
+22:01
+like when something's triggered, it sends an email to finance. if like someone signs up for the data
+22:06
+protection system, it sends an email to it to set them up on the uh on the um
+22:12
+Uris platform um and that kind of stuff and the same with the HR system. Um so
+22:17
+it's all kind of in fairness it is paperless. It's kind of manual. Yeah. But you say if there's if there's lots of email it's hard to track as
+22:23
+well. And would you have if in your ideal world what the success look like in terms of what you end up with in how
+22:30
+long on boarding would take? I mean what would your what what what will you say that ticks the box from the HR company's
+22:37
+perspective? Um really the the onboarding process from the from the time a customer says
+22:43
+they want to join our services like it should be I feel like it should be nearly within 24 hours to be honest with
+22:49
+you that they have like the the direct debits in place they've got their introduction email the account manager
+22:55
+been assigned um and they've got all their emails with the systems. I feel like that should be a 24-hour process
+23:01
+really, not the two or three days that they're currently waiting for. Okay. Um,
+23:08
+and the last one is question. Do you have a budget in mind on this or a spend that you think will fix the problem? I
+23:13
+know that some people are cautious about saying that, but it does help define the technology options might be in place
+23:20
+for this. Yeah, I honestly haven't thought about it unless
+23:25
+we we haven't really set a budget for it because we only got involved with the innovation exchange recently enough. So,
+23:30
+this is our first venture. Um, but we put this way if we think it's good value, we'll spend
+23:36
+it and that's not a problem and there's no problem spending it when it's right. So, it's about just establishing a business case based on
+23:44
+the the people cost and the delay in getting people processed and balancing that against the investment. Okay. to give
+23:51
+you a bit of we have used consultants in Chicago and we've used uh guys in India
+23:56
+as well to do some of that kind of work for us in the past. So there's a mixture of the types of different activities we
+24:01
+get covered. So we will we will spend if it's the right thing to to spend.
+24:07
+And one final question sorry I've got I got been bugging the mic here for a bit. Is there any competitor or anybody you
+24:13
+said look they those guys have a really good system we we'd like to be like that or is there anybody you compare yourself
+24:19
+to or say I'd like to you know I'd like to get ahead of those guys or is it about competitive advantage is
+24:25
+competitive advantage angle or is it purely about just streamlining and getting really efficient operations in
+24:30
+place we we don't know of any competitor that we want to mimic ourselves on
+24:36
+we just want to make sure we're more efficient um coming out of Microsoft you learn how to be efficient and you to
+24:41
+keep that going. Yeah, the multinationals give us all good discipline. That's great. Okay, appreciate that.
+24:47
+Thanks, guys. Thanks for that. Great set of questions, Aiden. Thanks, Stefan. Come on in there and pose your
+24:52
+question. Sure. Uh, hi Phil. Hi, Peter. Thanks for this. Um, I suppose we've covered this a
+24:58
+little bit, but I just wanted to understand a bit better the the main benefits you're you're looking to get here. Is it just efficiency internally
+25:05
+or better customer experience or is it kind of addressing the inconsistency to to kind of save money?
+25:11
+uh or is it just a combination of all? Is there any sort of particular one of those or
+25:17
+uh I answer that? Um for me, I think definitely a better customer experience would be number one like that would kind
+25:24
+of help. Anyway, um it's even like the sometimes I just look at the emails that
+25:29
+go out. I just wondering what you know there's no consistent with the branding even like that as well. You know, it's
+25:35
+all just kind of a bit put together kind of. Um, so I think definitely a customer experience would be better, especially
+25:41
+the fact that they're sent getting so many emails and the um and the and the forms like I feel like just the way they
+25:49
+have to answer the questions in the forms just seems a bit kind of al old school really you know. Um and then the
+25:56
+other part yeah I think just streamlineing in general though as well. Okay.
+26:01
+All right. And um like you mentioned a few things there to address like do you have a sense of any sort of priority
+26:06
+over those like the two problems you had there. Do you you know are they in sort of priority order? Is it the sort of the
+26:12
+solving the the integration of the the finance system and the CRM is probably a
+26:18
+a more urgent thing than you know than the second problem or are they?
+26:24
+I don't really have a priority if I'm honest. Yeah, I don't really mind what order it's done in. Okay.
+26:31
+And uh just last question and sorry I won't take too long. Um the all those emails and the the sort of the process
+26:37
+flow you have there is that in in that sequence intentionally as in does it
+26:42
+have to happen in that sequential order or uh like have you looked at that process and is there maybe things that
+26:48
+could be done in parallel or h I think I think certainly something
+26:53
+could be done in parallel I like I think some of them make sense
+26:58
+like when you have um the introduction to your account manager don't make sense that you like point of contact forest
+27:04
+that the person is going to be dealing with you dayto day. Um but then the other stuff where they're getting their
+27:10
+emails to do like our HR system or the system or the the tables to fill in
+27:16
+there I don't see why that shouldn't be like you know maybe one email or um
+27:23
+you know in terms of the order I don't think it really matters.
+27:28
+Okay. So there's no dependency between the steps. It's just that's that's the way you're doing them at the moment. That's That's all. Yeah. Yeah.
+27:33
+Yeah. Okay. Great. Okay. No, that's really helpful. Thanks for that. Very good. Thanks, Stefan. Richard,
+27:40
+you've been waiting patiently. I'll come to the chat function now in a second. Richard, pop on in there and uh say hello.
+27:45
+Great. Thanks, Connor. Hi, Philip. Peter. Um, thanks for the information so far. I just have a query around in the
+27:53
+end result or the success of it. On a scale of 1 to 10, how much do you want
+27:59
+that customer onboarding journey to be self-service versus purposeful injection
+28:06
+of your touch point for your brand or your personal touch during that process
+28:12
+versus like the ultimate going okay a a systemguided
+28:17
+friendly interface to bring them through the entire process and doing all the integration in the back end and all of
+28:23
+that versus actual touch point you want to that you could automate but you want
+28:28
+to be involved in that on boarding process because you want that touch point that personal touch point. If you
+28:35
+can kind of maybe even rank it on a scale of 1 to 10, how selfservice should it be versus how much should have a
+28:43
+human touch interaction during that onboarding process as well?
+28:50
+I I I'll answer that. I I would like that to be kind of ray up right very high eight seven or eight or nine
+28:56
+because I think it's important that's the first interaction with the company to a large extent outside of the sales people
+29:01
+and that's why it's very important for me that they actually do react quickly to that activity h if we get that right
+29:07
+we're showing a good image after we do that we are very active with our clients there afterwards uh we touch points with
+29:14
+them every day and as often as they needed to touch points with so we're very good at the followup once we get it done so to me the first image is going
+29:20
+to dict That's how we want to do business anyway. So the sooner and the better we get that working the better it
+29:25
+is from from my perspective because we we do think we might be wrong but we think we have a good customer service as
+29:31
+it is for actual day-to-day activities but I'd like to get it fixed at the very front end.
+29:36
+Okay. So efficiency self-guided make it a good customer experience but
+29:42
+in an automated way from the beginning. Okay. Thanks guys. Thanks uh so much Richard. Uh Bren
+29:49
+Hennessy, I see you have a question in the chat function there. Do you want to pop in and uh just run that by the guys?
+29:56
+Yeah, thanks Connor. Um yeah, I think as as as the guys mentioned, I think a lot
+30:02
+of the questions um have been kind of covered and crossed over. Um but but in terms of uh one area that I would
+30:10
+certainly see and it's good to to hear that you guys are open to it is is I definitely think there can be some very
+30:16
+quick wins on on your your onboarding flow which you know as when you're in a
+30:22
+company it's quite quite challenging because you've done things a certain way um throughout the years whereas if you
+30:28
+take kind of a step back and maybe a third part is able to come in and help to be able to understand that flow better. I I think you guys will be able
+30:35
+to reduce your onboarding flow uh fairly dramatically. So, I think you've covered the questions I asked, but I think that
+30:42
+that the last one um I hope I'm not coming across cheeky. Uh I I'd be very
+30:47
+happy to to speak to you guys about your services um for for my company as well. So, so maybe I'll reach out separately
+30:54
+on that. Fantastic. We like cheeky.
+31:00
+Yeah. Yeah. It's it's our marketplace for innovation. We're supposed to share ideas with each other. So, very good.
+31:06
+Um, okay. We don't have any more questions in the chat or any more hands
+31:11
+up. Is there anything else anyone wants to pose? Does anyone have a pressing
+31:17
+need they want to uh to get in and ask a question while we have uh while we have Philip and Peter here with us?
+31:23
+Maybe just one last one from from myself. Um, in terms of I guess you know you guys obviously have your BAU, you've
+31:30
+you know you need to run your business. How pressing is this um in regards to
+31:36
+are you guys ready to get started straight away? Is it something that's more towards the back end of um the
+31:43
+year? Just how pressing is it for you guys to be able to start?
+31:48
+Okay, I think I'll be honest at this point in time actually. Um Innovation
+31:53
+Exchange got involved with us actually from our time in gateway in the US and all that kind of good stuff that we get involved with. um when we started in
+32:01
+this road with the in with innovation guys, we've discovered we have a lot more stuff we need to get done as well,
+32:06
+an awful lot more stuff to get done, but this is just something that we're touching the ice with at the moment. So,
+32:12
+it's pressing because we have a lot more to do in the background. So, this is very important for us. Uh we we want to
+32:18
+be efficient. We want to give that experience to clients very simply. We don't always get it right and that's why
+32:24
+we need fresh eyes sometimes to look at what we do and that's why we're open to what people can come to us with. If we
+32:29
+don't like what you tell us, we'll tell you. If you tell if you think we're great, we'll tell you that as well. Uh
+32:34
+and we will work very closely with people that we do work with. Uh we're in the business of trying to improve what
+32:40
+we do for our clients. We have 1,200 clients today. We want to keep them all happy. H that's what we're about. So,
+32:47
+whatever you can bring to the table, we we'll suck it up. And don't don't be afraid about that. We suck it in.
+32:54
+Okay. Cheers. I've uh Connor if I'm sorry Richard has his hand up there. I don't know. Richard
+32:59
+if you have a question or am I jumping ahead of you? No, I think Richard posed his already. Okay. It was there. Yeah. Um
+33:06
+no problem. No problem. I was don't want to skip the queue upset people. Um
+33:11
+in terms of uh the decision- making then is that down to the two caries who are on the call then? Is there anybody else
+33:18
+involved in that or absolutely we will call? Okay, that's good. And and I like your
+33:23
+approach on um good news and bad because one of our addages is honesty and integrity and that means you have to
+33:29
+have straight conversations with people and deal with problems as you find them. So that's refreshing you take that approach as well.
+33:37
+Excellent. Excellent. Thank you. Thanks Aiden. I appreciate that. Uh anyone else any last comments,
+33:44
+questions? Anyone want to ask us anything before we move to close? We're all happy with that. Okay, with that
+33:51
+then I'll bring in Rachel and Kevin to talk about next steps and where we go from here.
+33:57
+Thanks Connor. Thanks Philip and Peter for the presentation. Um so the normal kind of h format of pies here we're
+34:04
+going to give two weeks for um the submissions to be sent in. So the closing date will be Tuesday the 23rd of
+34:11
+September um for those submissions. I know we have a couple of new members on the call. So, I've sent in the template
+34:18
+for that into the chat and if you could send that in to us at info@theinovation exchange.ie by Tuesday 23rd that would
+34:25
+be great. Um, we'll review them internally ourselves that week and um we're going to follow up with Peter and
+34:32
+Philip after this just to set the date for the review, but we're aiming for the week following that. So, um, as soon as
+34:39
+we have any updates after that meeting, we'll we'll be in touch. Thanks.
+34:45
+Thanks, Ra. Uh Kevin, anything in closing from you? No, Connor, I think everything's covered
+34:51
+yet. Very good. Okay, excellent. Folks, uh thanks so much. We're a couple of minutes ahead, which is fantastic. H
+34:58
+Philip Peter, great to see you again. Uh thanks so much for taking the time to lay out your challenge. Hopefully, we
+35:03
+can help you and we'll be back to you in a couple of weeks with what we hope will be some good submissions. And I'm
+35:08
+delighted to hear you say it's the first of many hopefully. So if we can prove ourselves in this process, uh we'll then
+35:14
+engage with you on see what else we can we can help you with. So thanks for that. Uh and thanks for taking the time to put it all together.
+35:21
+Very good. And thanks everyone. Thanks guys. That was great. Thanks so much. We'll be back in a few
+35:26
+weeks and uh everyone have a great day. Chat to you soon. Thanks so much. Appreciate it. Byebye.
