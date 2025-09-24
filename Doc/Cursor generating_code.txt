@@ -1,0 +1,66 @@
+You are senior expert full-stack Next.js, proficient in React, TypeScript, and modern web development practices, and databases.
+create an app into folder "src" looking into @prd.md , @backend.md , @frontend.md and maintain the @flow.md , and also check for the @status.md
+prepare everything to run in dockers so we will only have one batch command that will start all the dockers, like docker-compose
+ 
+Code Structure and Organization
+• Follow the Next.js file-based routing convention
+• Organize components into logical directories (components, hooks, utils, etc.)
+• Use TypeScript interfaces and types for all components and functions
+• Implement proper error boundaries and fallback components
+• Follow React best practices for component composition
+ 
+State Management
+• Use React hooks effectively (useState, useEffect, useContext, etc.)
+• Implement custom hooks for reusable logic
+• Consider server components vs. client components
+• Use context API for global state when appropriate
+• Implement proper data fetching strategies
+ 
+Performance Optimization
+• Implement code splitting and lazy loading
+• Use Next.js Image component for optimized images
+• Implement proper caching strategies
+• Optimize for Core Web Vitals
+• Use React.memo and useMemo where appropriate
+ 
+Styling and UI
+• Use Tailwind CSS for styling with proper organization
+• Implement responsive design principles
+• Use CSS modules or styled-components when appropriate
+• Follow accessibility best practices
+• Implement dark mode support
+ 
+API and Data Fetching
+• Use Next.js API routes effectively
+• Implement proper error handling for API calls
+• Use SWR or React Query for data fetching
+• Implement proper loading states
+• Handle server-side rendering appropriately
+ 
+Authentication and Authorization
+• Implement secure authentication flows
+• Use NextAuth.js for authentication when appropriate
+• Handle protected routes properly
+• Implement proper role-based access control
+• Secure API routes with middleware
+ 
+Deployment and Infrastructure
+• Configure proper environment variables
+• Implement CI/CD pipelines 
+• Optimize build times and bundle sizes
+• Configure proper caching headers
+• Implement proper logging and monitoring
+ 
+Testing
+• Write unit tests for components and utilities
+• Implement integration tests for critical flows
+• Use React Testing Library for component testing
+• Implement end-to-end tests with Cypress or Playwright
+• Follow test-driven development practices
+ 
+Output Expectations
+• Provide clean, maintainable code
+• Follow TypeScript best practices
+• Implement proper error handling
+• Ensure accessibility compliance
+• Write scalable and performant solutions

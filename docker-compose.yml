@@ -1,0 +1,131 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: hr-onboarding-postgres
+    environment:
+      POSTGRES_DB: mvp_logs
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d mvp_logs"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hr-onboarding-network
+
+  # Redis for BullMQ and caching
+  redis:
+    image: redis:7-alpine
+    container_name: hr-onboarding-redis
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hr-onboarding-network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: backend-production
+    container_name: hr-onboarding-backend
+    environment:
+      NODE_ENV: production
+      PORT: 3001
+      APP_SECRET_TOKEN: ${APP_SECRET_TOKEN:-demo-secret-token}
+      
+      # vTiger CRM
+      VTIGER_API_URL: ${VTIGER_API_URL:-https://demo.vtiger.com/restapi/v1}
+      VTIGER_ACCESS_KEY: ${VTIGER_ACCESS_KEY:-demo-access-key}
+      VTIGER_USERNAME: ${VTIGER_USERNAME:-demo-username}
+      VTIGER_WEBHOOK_SECRET: ${VTIGER_WEBHOOK_SECRET:-demo-webhook-secret}
+      
+      # Maxio
+      MAXIO_API_URL: ${MAXIO_API_URL:-https://api.maxio.com/v1}
+      MAXIO_API_KEY: ${MAXIO_API_KEY:-demo-api-key}
+      MAXIO_DEFAULT_PRODUCT_HANDLE: ${MAXIO_DEFAULT_PRODUCT_HANDLE:-default-hr-package}
+      
+      # Database
+      DATABASE_URL: postgresql://user:pass@postgres:5432/mvp_logs
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: mvp_logs
+      DB_USER: user
+      DB_PASSWORD: pass
+      
+      # Redis
+      REDIS_URL: redis://redis:6379
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      
+      # CORS
+      CORS_ORIGIN: http://localhost:3000
+      
+      # Logging
+      LOG_LEVEL: info
+    ports:
+      - "3001:3001"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - backend_logs:/app/logs
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - hr-onboarding-network
+    restart: unless-stopped
+
+  # Frontend Next.js App
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: frontend-production
+    container_name: hr-onboarding-frontend
+    environment:
+      NODE_ENV: production
+      BACKEND_URL: http://backend:3001
+      NEXT_PUBLIC_API_TOKEN: ${APP_SECRET_TOKEN:-demo-secret-token}
+    ports:
+      - "3000:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - hr-onboarding-network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  backend_logs:
+    driver: local
+
+networks:
+  hr-onboarding-network:
+    driver: bridge

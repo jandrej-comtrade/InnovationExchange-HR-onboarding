@@ -1,0 +1,97 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: hr-onboarding-postgres-dev
+    environment:
+      POSTGRES_DB: mvp_logs
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+    volumes:
+      - postgres_dev_data:/var/lib/postgresql/data
+      - ./backend/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    networks:
+      - hr-onboarding-dev-network
+
+  # Redis for BullMQ and caching
+  redis:
+    image: redis:7-alpine
+    container_name: hr-onboarding-redis-dev
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_dev_data:/data
+    ports:
+      - "6379:6379"
+    networks:
+      - hr-onboarding-dev-network
+
+  # Backend API (Development)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: backend-base
+    container_name: hr-onboarding-backend-dev
+    environment:
+      NODE_ENV: development
+      PORT: 3001
+      APP_SECRET_TOKEN: demo-secret-token
+      
+      # vTiger CRM (Demo values)
+      VTIGER_API_URL: https://demo.vtiger.com/restapi/v1
+      VTIGER_ACCESS_KEY: demo-access-key
+      VTIGER_USERNAME: demo-username
+      VTIGER_WEBHOOK_SECRET: demo-webhook-secret
+      
+      # Maxio (Demo values)
+      MAXIO_API_URL: https://api.maxio.com/v1
+      MAXIO_API_KEY: demo-api-key
+      MAXIO_DEFAULT_PRODUCT_HANDLE: default-hr-package
+      
+      # Database
+      DATABASE_URL: postgresql://user:pass@postgres:5432/mvp_logs
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: mvp_logs
+      DB_USER: user
+      DB_PASSWORD: pass
+      
+      # Redis
+      REDIS_URL: redis://redis:6379
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      
+      # CORS
+      CORS_ORIGIN: http://localhost:3000
+      
+      # Logging
+      LOG_LEVEL: debug
+    ports:
+      - "3001:3001"
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - ./backend/src:/app/src
+      - ./backend/package.json:/app/package.json
+      - ./backend/tsconfig.json:/app/tsconfig.json
+      - backend_dev_logs:/app/logs
+    command: npm run dev
+    networks:
+      - hr-onboarding-dev-network
+
+volumes:
+  postgres_dev_data:
+    driver: local
+  redis_dev_data:
+    driver: local
+  backend_dev_logs:
+    driver: local
+
+networks:
+  hr-onboarding-dev-network:
+    driver: bridge
